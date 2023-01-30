@@ -1,8 +1,6 @@
 ### Hi, I'm Rodney(Mark) 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ALX Software Engineering Programme and some things on the side.
 - 🌱 I’m currently learning a few things... Javascript, Python(django) and of course, ALX content.
 - 👯 I’m looking to collaborate on any projects including but not limited to the ALX problem sets.
