@@ -8,6 +8,6 @@
 - 💬 Ask me about How I'm doing in life ...😅, anything you might want me to work on with you.
 - 📫 How to reach me: Twitter: @JebanR
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I wear chipped glasses 😅
+- ⚡ Fun fact: One of my greatest inspirations is David J. Malan
 
 
